@@ -1,0 +1,11 @@
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\bin\Debug\netcoreapp2.0\ScrambleSquare.deps.json
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\bin\Debug\netcoreapp2.0\ScrambleSquare.runtimeconfig.json
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\bin\Debug\netcoreapp2.0\ScrambleSquare.runtimeconfig.dev.json
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\bin\Debug\netcoreapp2.0\ScrambleSquare.dll
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\bin\Debug\netcoreapp2.0\ScrambleSquare.pdb
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\obj\Debug\netcoreapp2.0\ScrambleSquare.csprojResolveAssemblyReference.cache
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\obj\Debug\netcoreapp2.0\ScrambleSquare.csproj.CoreCompileInputs.cache
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\obj\Debug\netcoreapp2.0\ScrambleSquare.AssemblyInfoInputs.cache
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\obj\Debug\netcoreapp2.0\ScrambleSquare.AssemblyInfo.cs
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\obj\Debug\netcoreapp2.0\ScrambleSquare.dll
+C:\Users\Tomya Blade\source\repos\ScrambleSquare\ScrambleSquare\obj\Debug\netcoreapp2.0\ScrambleSquare.pdb

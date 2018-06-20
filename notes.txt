@@ -1,0 +1,3 @@
+This is a solver for a game called Scramble Squares. The game consists of fitting 9 tiles together in a 3X3 grid in such a way that all of the edges match. 
+On a 3x3 puzzle, there are over 95 billion combinations, and supposedly there is only 1 solution.
+This solver has yet to incorporate rotating the pieces to find a solution. I also plan to add heuristics to speed up runtime and to generalize so it works for games of different sizes. And to safen it up.
